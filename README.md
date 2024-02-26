@@ -12,7 +12,7 @@ I was one of the core contributors of Central Bank’s payment systems (EFT, FAS
 
 ### Hacettepe University (2022 - 2024)
 - **MSc Software Engineering**
-- **Graduation Project:** Application Development with Hexagonal Architecture Pattern
+- **Graduation Thesis:** Application Development with Hexagonal Architecture Pattern
 
 ### Middle East Technical University (2018 - 2020)
 - **MSc Applied Mathematics**
