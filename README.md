@@ -1,4 +1,6 @@
 # Esat Koç - Software Crafter
+![CV](https://img.shields.io/badge/CV-green.svg)
+
 Experienced team player and leader in software development and architecture. 
 Designed, developed, improved and launched innovative systems that touches daily lives of millions of people. 
 I was one of the core contributors of Central Bank’s payment systems (EFT, FAST) and its overlay services (TR QR, BKM Easy Addressing System, Open Banking Api, Request to pay)
